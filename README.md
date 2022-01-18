@@ -1,15 +1,17 @@
 ## 드림코딩
 
-### Git & GitHub
+### 강의 목록
 
-### HTML
+- Git & GitHub
 
-### CSS
+- HTML
 
-### Responsive nav bar
+- CSS
 
-### Youtube site clone coding
+- Responsive nav bar
 
-### JavaScript
+- Youtube site clone coding
 
-### Portfolio web site
+- JavaScript
+
+- Portfolio web site
